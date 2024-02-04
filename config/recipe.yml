@@ -23,7 +23,7 @@ modules:
     install:
     - neovim
     - neofetch
-    # - micro
+    - micro
     # - starship
     remove:
       - firefox # default firefox removed in favor of flatpak
