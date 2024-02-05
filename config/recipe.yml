@@ -24,6 +24,7 @@ modules:
     - neovim
     - neofetch
     - micro
+    - distrobox
     - rsms-inter-fonts
     - pcaro-hermit-fonts
     # - starship
