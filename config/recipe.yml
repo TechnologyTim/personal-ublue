@@ -41,6 +41,7 @@ modules:
       install:
         - org.mozilla.firefox
         - com.vivaldi.Vivaldi
+        - com.nextcloud.desktopclient.nextcloud
         - com.spotify.Client
         - org.libreoffice.LibreOffice
         - com.valvesoftware.Steam
