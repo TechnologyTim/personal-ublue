@@ -29,6 +29,7 @@ modules:
     - rsms-inter-fonts
     - pcaro-hermit-fonts
     - epson-inkjet-printer-escpr2
+    - evince
     # - starship
     remove:
       - firefox # default firefox removed in favor of flatpak
@@ -48,8 +49,8 @@ modules:
         - org.libreoffice.LibreOffice
         - com.valvesoftware.Steam
         - org.gnome.Boxes
-        - org.gnome.Evince
         - org.gnome.eog
+        - org.ablaze.Floorp
       # - org.gnome.Loupe
       # - one.ablaze.floorp//lightning # This is an example of flatpak which has multiple branches in selection (flatpak//branch).
       # Flatpak runtimes are not supported (like org.winehq.Wine//stable-23.08).
