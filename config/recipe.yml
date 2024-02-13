@@ -32,8 +32,6 @@ modules:
     - evince
     - arc-theme
     - yaru-theme
-    - yaru-gt3-theme
-    - yaru-gtk4-theme
     # - starship
     remove:
       - firefox # default firefox removed in favor of flatpak
