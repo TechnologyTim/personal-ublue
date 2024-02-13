@@ -30,6 +30,7 @@ modules:
     - pcaro-hermit-fonts
     - epson-inkjet-printer-escpr2
     - evince
+    - arc-theme
     # - starship
     remove:
       - firefox # default firefox removed in favor of flatpak
