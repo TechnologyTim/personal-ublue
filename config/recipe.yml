@@ -31,7 +31,6 @@ modules:
     - epson-inkjet-printer-escpr2
     - evince
     - arc-theme
-    - yaru-theme
     # - starship
     remove:
       - firefox # default firefox removed in favor of flatpak
