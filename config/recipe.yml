@@ -24,13 +24,13 @@ modules:
     - neovim
     - fish
     - neofetch
-    - micro
     - distrobox
     - rsms-inter-fonts
     - pcaro-hermit-fonts
     - epson-inkjet-printer-escpr2
     - evince
     - arc-theme
+    - alacritty
     # - starship
     remove:
       - firefox # default firefox removed in favor of flatpak
