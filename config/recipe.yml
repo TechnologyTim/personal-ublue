@@ -49,6 +49,7 @@ modules:
         - com.spotify.Client
         - org.libreoffice.LibreOffice
         - com.valvesoftware.Steam
+        - net.lutris.Lutris
         - org.gnome.Boxes
         - org.gnome.eog
         - org.ablaze.Floorp
