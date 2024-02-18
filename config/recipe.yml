@@ -23,7 +23,7 @@ modules:
     install:
     - neovim
     - fish
-    - neofetch
+    - fastfetch
     - distrobox
     - rsms-inter-fonts
     - pcaro-hermit-fonts
