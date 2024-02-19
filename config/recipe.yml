@@ -23,14 +23,15 @@ modules:
     install:
     - neovim
     - fish
-    - fastfetch
-    - distrobox
-    - rsms-inter-fonts
-    - pcaro-hermit-fonts
-    - epson-inkjet-printer-escpr2
-    - evince
+    - fastfetch # fast version of neofetch
+    - distrobox # better alternative to toolbox
+    - rsms-inter-fonts # my personal favourite UI font
+    - pcaro-hermit-fonts # best monospace font
+    - epson-inkjet-printer-escpr2 # printer driver
+    - evince # cant print using flatpak version
     - arc-theme
     - alacritty
+    - mesa-libGLU # needed for running games
     # - starship
     remove:
       - firefox # default firefox removed in favor of flatpak
