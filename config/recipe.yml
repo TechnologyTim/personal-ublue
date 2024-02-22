@@ -55,6 +55,7 @@ modules:
         - org.gnome.eog
         - org.ablaze.Floorp
         - org.mozilla.Thunderbird
+        - com.raggesilver.BlackBox
         - org.videolan.VLC
         - org.gnome.Music
       # - org.gnome.Loupe
